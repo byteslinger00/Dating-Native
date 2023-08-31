@@ -8,7 +8,6 @@ Managed Expo v0.39
 
 [Demo on Expo Client](https://expo.io/@cameronmoreau/matched)
 
-or type `exp://exp.host/@cameronmoreau/matched`
 
 ### Screenshots
 
